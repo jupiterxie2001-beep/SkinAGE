@@ -1,8 +1,6 @@
-streamlit==1.39.0
-tensorflow-cpu==2.13.0
-numpy==1.24.3
-pandas==2.2.2
-scikit-learn==1.3.2
-shap==0.43.0
-matplotlib==3.8.0
-os
+streamlit
+tensorflow
+numpy
+pandas
+pycombat
+openpyxl
